@@ -5,8 +5,5 @@ Git tracks changes of files.
 Creating a new branch is quick AND simple.
 This is dev branch.
 This file has being developing till tomorrow!
-<<<<<<< HEAD
-=======
 222222222222222
->>>>>>> dev
-4444444444444444444444
+444
